@@ -124,7 +124,7 @@
 }
 .li > 
 .input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 .button.delete 
 .button-img {
@@ -140,7 +140,7 @@
 /* Completed */
 .ul#completed-tasks 
 .label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
